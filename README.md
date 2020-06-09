@@ -3,8 +3,12 @@ Companion repo for  advanced deep learning using Tensorflow2 and keras.
 
 Current work:
 1)Deep neural networks
--CNN,YCNN Networks
+
+a)CNN,YCNN Networks
 
 2)Autoencoders:
--Reconstructing input image
--Denoising the input image
+a)Reconstructing input image
+
+b)Denoising the input image
+
+c)Coloring bw image using autoencoder
