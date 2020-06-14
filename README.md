@@ -5,9 +5,14 @@ Current work:
 
 1)Deep neural networks
 
-a)CNN,YCNN Networks
+a)CNN
+
+b)YCNN 
+
+C)Bidirectional LSTM for image classification
 
 2)Autoencoders:
+
 a)Reconstructing input image
 
 b)Denoising the input image
