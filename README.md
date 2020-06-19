@@ -9,7 +9,7 @@ a)CNN
 
 b)YCNN 
 
-C)Bidirectional LSTM for image classification
+c)Bidirectional LSTM for image classification
 
 2)Autoencoders:
 
