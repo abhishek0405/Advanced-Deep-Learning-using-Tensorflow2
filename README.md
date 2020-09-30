@@ -3,11 +3,8 @@ Companion repo for  advanced deep learning using Tensorflow2 and keras.
 
 Current work:
 
-1)Deep neural networks
+1)[Deep Neural Networks](./Chapter2)
 
-a)CNN
-
-b)YCNN 
 
 c)Bidirectional LSTM for image classification
 
